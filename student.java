@@ -1,4 +1,3 @@
-package java-jenkins1;
 
 public class student {
     public student(){
