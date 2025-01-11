@@ -9,8 +9,8 @@ public class Main {
         System.out.println("here we gooo...");
         System.out.println("added one more file...");
         System.out.println("the process got automated");
-        student student = new student();
-        student.hihibyebye();
+        student student = new students();
+        students.hihibyebye();
     }
 
 }
