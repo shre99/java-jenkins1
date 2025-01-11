@@ -10,7 +10,7 @@ public class Main {
         System.out.println("added one more file...");
         System.out.println("the process got automated");
         student student = new students();
-        students.hihibyebye();
+        student.hihibyebye();
     }
 
 }
